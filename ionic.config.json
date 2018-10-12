@@ -1,0 +1,7 @@
+{
+  "name": "Vivasayi-Mobile",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
